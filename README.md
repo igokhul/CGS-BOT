@@ -28,6 +28,6 @@ We included components from a simple bluetooth controlled car to simulate the sa
 We stopped working for this problem in this way. The people worked in this including me are CSE and IT Engineering Students. We moved away from solving this problem to focus on skills that our department needed at that time.
 
 # CONTRIBUTIONS
-1. Charumathi KJ
-2. Shwetha S
+1. Charumathi
+2. Shwetha
 3. Gokhul (Myself)
