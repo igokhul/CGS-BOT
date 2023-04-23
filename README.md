@@ -1,5 +1,5 @@
 # CGS-ROBOT
-This idea initially started in the SAP Semicolon Hackathon in the year 2019-2020. We designed a model that could hellp to clean the oil spill in the ocean. We used a simple controlling code in this repository to controll the bot with mobile phone with the help of bluetooth.
+This idea initially started in the SAP Semicolon Hackathon in the year 2019-2020. We designed a model that could help to clean the oil spill in the ocean. We used a simple controlling code in this repository to control the bot with mobile phone with the help of bluetooth.
 
 # DESIGNS WE USED
 Model Design 1 - Floating test of this model was a failure
